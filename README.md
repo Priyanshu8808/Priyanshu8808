@@ -42,33 +42,14 @@ I enjoy working with data, finding meaningful insights, building visualizations,
 
 - 📊 Currently focused on **Data Analytics & Data Science**
 - 🐍 Working with **Python, Pandas, NumPy, Matplotlib & Seaborn**
-- 🗄️ Skilled in **SQL**
-- 📈 Building dashboards with **Power BI**
+- 🗄️ Skilled in **SQL, Advanced Excel**
+- 📈 Building dashboards with **Power BI, Tableau**
 - 🤖 Moving towards **Machine Learning & AI**
 - 💻 Strong interest in **DSA & Problem Solving**
 - 🚀 Continuously learning, building and improving
 
 ---
 
-## 🛠️ Skills
-
-### Programming & Data
-
-`Python` `SQL` `NumPy` `Pandas`
-
-### Data Visualization
-
-`Matplotlib` `Seaborn` `Power BI` `Excel`
-
-### Problem Solving
-
-`Data Structures & Algorithms` `Problem Solving`
-
-### Currently Exploring
-
-`Machine Learning` `Artificial Intelligence` `Data Science`
-
----
 
 ## 📊 Data Analysis Practice
 
@@ -100,9 +81,7 @@ Hands-on practice with Python libraries used in Data Analytics and Data Science.
 | **Languages** | Python, SQL, Java, C, C++ |
 | **Data Analytics Tools** | Advanced excel, Python Libraries (Numpy, Pandas, Matplotlib, Seaborn), Power Bi|
 | **AI / Machine Learning** | PyTorch, OpenCV, Scikit-Learn, Transfer Learning, Ultralytics YOLO (v8/v9/11), |
-| **Computer Vision Tasks** | Object Detection, Semantic Segmentation, Hungarian Matching |
 | **Data & Storage** | PostgreSQL, MySQL, MongoDB, Redis (Caching / Queues) |
-| **Cloud & DevOps** | Docker, AWS (EC2, S3), Git, GitHub Actions, Linux |
 
 <div align="center">
 
@@ -112,7 +91,12 @@ Hands-on practice with Python libraries used in Data Analytics and Data Science.
 
 **Data Analytics Tools**
 
-<img src="https://skillicons.dev/icons?i=excel,numpy,pandas,matplotlib,seaborn" alt="Data Analytics tools" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
 **AI & Machine Learning**
 
@@ -120,15 +104,12 @@ Hands-on practice with Python libraries used in Data Analytics and Data Science.
 
 **Frontend Engineering**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend tools" />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend tools" />
 
 **Databases & Search**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
 
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions" alt="Cloud & DevOps tools" />
 
 </div>
 
