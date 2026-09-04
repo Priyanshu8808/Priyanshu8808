@@ -137,7 +137,7 @@ CBSE Class XII ( Secondary) — Mathematics & Science | **2020**
 
 ## 🎯 My Learning Journey
 
-```text
+
 Python
    ↓
 Data Structures & Algorithms
@@ -153,3 +153,32 @@ Data Analytics
 Machine Learning
    ↓
 Artificial Intelligence
+
+---
+
+## 🤝 Let's Connect
+
+
+<div align="center">
+
+I'm open to discussions around **Data Analytics, Data Science, Machine Learning, AI, and DSA**.
+
+<a href="https://github.com/Priyanshu8808">
+  <img src="https://img.shields.io/badge/GitHub-Priyanshu8808-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/priyanshu-mishra-ab5b362a1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://leetcode.com/u/Priyanshu8808/">
+  <img src="https://img.shields.io/badge/LeetCode-Priyanshu8808-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="mailto:priyansh8808@gmail.com">
+  <img src="https://img.shields.io/badge/Email-priyansh8808%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,45:7C3AED,100:EC4899" alt="Footer" />
+
+</div>
