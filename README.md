@@ -135,26 +135,8 @@ CBSE Class XII ( Secondary) — Mathematics & Science | **2020**
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=0:06B6D4,50:7C3AED,100:EC4899" alt="divider" />
 </div>
 
-## 🎯 My Learning Journey
 
 
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-NumPy + Pandas
-   ↓
-Data Visualization
-   ↓
-SQL + Power BI
-   ↓
-Data Analytics
-   ↓
-Machine Learning
-   ↓
-Artificial Intelligence
-
----
 
 ## 🤝 Let's Connect
 
