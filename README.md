@@ -74,9 +74,11 @@ I enjoy working with data, finding meaningful insights, building visualizations,
 
 I've worked with different datasets to practice **data cleaning, exploratory data analysis, visualization and extracting insights**, including:
 
-- 🦠 COVID-19 Data Analysis
-- 🌸 Iris / Flower Dataset Analysis
-- 🍽️ Tips Dataset Analysis
+- 🦠 **COVID-19 Data Analysis**
+- 🚕 **Uber Ride Data Analysis**
+- 🏏 **Indian Cricket Data Analysis**
+- 🌸 **Iris Flower Dataset Analysis**
+- 🍽️ **Tips Dataset Analysis**
 
 ---
 
@@ -90,6 +92,7 @@ Hands-on practice with Python libraries used in Data Analytics and Data Science.
 `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
 ---
+
 ## 🧰 Engineering Stack
 
 | Domain | Technologies & Frameworks |
@@ -109,7 +112,7 @@ Hands-on practice with Python libraries used in Data Analytics and Data Science.
 
 **Data Analytics Tools**
 
-<img src="https://skillicons.dev/icons?i=excel,numpy,pandas,matplotlib,seaborn" alt="AI/ML tools" />
+<img src="https://skillicons.dev/icons?i=excel,numpy,pandas,matplotlib,seaborn" alt="Data Analytics tools" />
 
 **AI & Machine Learning**
 
