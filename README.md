@@ -23,6 +23,15 @@
 </div>
 
 ---
+### Quick Profile
+
+| Dimension | Details |
+| :--- | :--- |
+| 🎓 **Education** | B.Tech in Electronics & Communication — MMMUT Gorakhpur (2023–2027) · **CGPA: 8.57/10** |
+| 📍 **Location** | Prayagraj, Uttar Pradesh, India |
+| 🧠 **Core Focus** | Machine Learning · Generative AI / RAG · LLM 
+| 💻 **Problem Solving** | **500+ DSA problems** solved across LeetCode, Codeforces, and GeeksforGeeks (C++, Python, SQL) |
+
 
 ## 👨‍💻 About Me
 
