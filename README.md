@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Priyanshu Mishra
 
-### Data Analyst |  Data Scientist | AI/ML Enthusiast | Problem Solver
+###| Data Scientist |  Data Analyst | GenAI & AI/ML Enthusiast | Problem Solver
 
 📊 Turning data into insights • 🤖 Exploring AI & ML • 💻 Solving problems with code
 
@@ -40,8 +40,8 @@ I'm a **Data Analyst and aspiring Data Scientist** with a strong interest in **M
 
 I enjoy working with data, finding meaningful insights, building visualizations, and solving programming problems.
 
-- 📊 Currently focused on **Data Analytics & Data Science**
-- 🐍 Working with **Python, Pandas, NumPy, Matplotlib & Seaborn**
+- 📊 Currently focused on **Data Science & GenAI**
+- 🐍 Working with **Python, Pandas, NumPy, Matplotlib, LLM, Langchain, RAG**
 - 🗄️ Skilled in **SQL, Advanced Excel**
 - 📈 Building dashboards with **Power BI, Tableau**
 - 🤖 Moving towards **Machine Learning & AI**
@@ -80,6 +80,7 @@ Hands-on practice with Python libraries used in Data Analytics and Data Science.
 | :--- | :--- |
 | **Languages** | Python, SQL, Java, C, C++ |
 | **Data Analytics Tools** | Advanced excel, Python Libraries (Numpy, Pandas, Matplotlib, Seaborn), Power Bi|
+|**Generative AI**| GenAI, Large Language Model(LLM), langchain, RAG, Prompts, Groq, OpenAi| 
 | **AI / Machine Learning** | PyTorch, OpenCV, Scikit-Learn, Transfer Learning, Ultralytics YOLO (v8/v9/11), |
 | **Data & Storage** | PostgreSQL, MySQL, MongoDB, Redis (Caching / Queues) |
 
