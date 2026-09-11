@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Priyanshu Mishra
 
-### Data Scientist |  Data Analyst | GenAI & AI/ML Enthusiast | Problem Solver
+### Data Scientist |  Data Analyst | Generative AI | AI/ML Enthusiast | Problem Solver
 
 📊 Turning data into insights • 🤖 Exploring AI & ML • 💻 Solving problems with code
 
